@@ -1,0 +1,20 @@
+version: "3.9"
+
+services:
+  api:
+    image: trainee
+    container_name: trainee_api
+    depends_on:
+        - ms_sql_server
+    ports:
+        - "8080:8080" 
+        - "8081:8081"
+  ms_sql_server:
+    image: "mcr.microsoft.com/mssql/server:2022-latest"
+    container_name: ms_sql_server
+    ports:
+        - "1433:1433"
+    environment:
+        - ACCEPT_EULA=Y
+        - SA_PASSWORD=Super1Secret2Password$725
+  

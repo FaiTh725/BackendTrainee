@@ -1,0 +1,722 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\VSProjects\\Trainee\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|c:\\vsprojects\\trainee\\dal\\implementations\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|solutionrelative:dal\\implementations\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|c:\\vsprojects\\trainee\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|solutionrelative:controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|c:\\vsprojects\\trainee\\services\\implementations\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|solutionrelative:services\\implementations\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|c:\\vsprojects\\trainee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|c:\\vsprojects\\trainee\\help\\extentions\\appextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|solutionrelative:help\\extentions\\appextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|c:\\vsprojects\\trainee\\scripts\\taskupdated.sql||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|solutionrelative:scripts\\taskupdated.sql||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|c:\\vsprojects\\trainee\\scripts\\taskinserted.sql||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|solutionrelative:scripts\\taskinserted.sql||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|c:\\vsprojects\\trainee\\scripts\\clientsupdate.sql||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|solutionrelative:scripts\\clientsupdate.sql||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|c:\\vsprojects\\trainee\\scripts\\clientinserted.sql||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|solutionrelative:scripts\\clientinserted.sql||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|c:\\vsprojects\\trainee\\scripts\\createtriggers.sql||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|solutionrelative:scripts\\createtriggers.sql||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|c:\\vsprojects\\trainee\\scripts\\createtables.sql||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|solutionrelative:scripts\\createtables.sql||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|c:\\vsprojects\\trainee\\secrets.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|solutionrelative:secrets.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|c:\\vsprojects\\trainee\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|solutionrelative:controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|c:\\vsprojects\\trainee\\dal\\implementations\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|solutionrelative:dal\\implementations\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|c:\\vsprojects\\trainee\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|c:\\vsprojects\\trainee\\trainee.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|solutionrelative:trainee.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|c:\\vsprojects\\trainee\\secretspublish.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|solutionrelative:secretspublish.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|c:\\vsprojects\\trainee\\trainee.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|solutionrelative:trainee.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD9D423-0AB8-4750-A121-6E621FD7DBE7}|Solution Items{3DD9D423-0AB8-4750-A121-6E621FD7DBE7}|C:\\VSProjects\\Trainee\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3DD9D423-0AB8-4750-A121-6E621FD7DBE7}|Solution Items{3DD9D423-0AB8-4750-A121-6E621FD7DBE7}|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|c:\\vsprojects\\trainee\\services\\implementations\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|solutionrelative:services\\implementations\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|c:\\vsprojects\\trainee\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|c:\\vsprojects\\trainee\\validators\\clientvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|solutionrelative:validators\\clientvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|c:\\vsprojects\\trainee\\validators\\taskvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|solutionrelative:validators\\taskvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|c:\\vsprojects\\trainee\\models\\task\\createtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|solutionrelative:models\\task\\createtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|c:\\vsprojects\\trainee\\dal\\databaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|solutionrelative:dal\\databaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|c:\\vsprojects\\trainee\\services\\interfaces\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|solutionrelative:services\\interfaces\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|c:\\vsprojects\\trainee\\services\\interfaces\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|solutionrelative:services\\interfaces\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|c:\\vsprojects\\trainee\\dal\\interfaces\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|solutionrelative:dal\\interfaces\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|c:\\vsprojects\\trainee\\dal\\interfaces\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|solutionrelative:dal\\interfaces\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|c:\\vsprojects\\trainee\\models\\task\\gettask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|solutionrelative:models\\task\\gettask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|c:\\vsprojects\\trainee\\models\\client\\clientwithtasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|solutionrelative:models\\client\\clientwithtasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|c:\\vsprojects\\trainee\\models\\client\\getclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|solutionrelative:models\\client\\getclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|c:\\vsprojects\\trainee\\domain\\responses\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|solutionrelative:domain\\responses\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|c:\\vsprojects\\trainee\\domain\\enums\\statuscode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|solutionrelative:domain\\enums\\statuscode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|c:\\vsprojects\\trainee\\domain\\enums\\taskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|solutionrelative:domain\\enums\\taskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|c:\\vsprojects\\trainee\\models\\task\\updatetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|solutionrelative:models\\task\\updatetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|c:\\vsprojects\\trainee\\domain\\entities\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|solutionrelative:domain\\entities\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|c:\\vsprojects\\trainee\\domain\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|solutionrelative:domain\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|c:\\vsprojects\\trainee\\models\\client\\createclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|solutionrelative:models\\client\\createclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|c:\\vsprojects\\trainee\\models\\client\\updateclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|solutionrelative:models\\client\\updateclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|c:\\vsprojects\\trainee\\domain\\responses\\dataresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8069E3EC-B3EB-4896-A567-FED03D4B7F66}|Trainee.csproj|solutionrelative:domain\\responses\\dataresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f5cd1b51-c771-5648-966f-646d419b1e7c}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateTriggers.sql",
+              "DocumentMoniker": "C:\\VSProjects\\Trainee\\Scripts\\CreateTriggers.sql",
+              "RelativeDocumentMoniker": "Scripts\\CreateTriggers.sql",
+              "ToolTip": "C:\\VSProjects\\Trainee\\Scripts\\CreateTriggers.sql",
+              "RelativeToolTip": "Scripts\\CreateTriggers.sql",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-13T12:34:17.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppExtention.cs",
+              "DocumentMoniker": "C:\\VSProjects\\Trainee\\Help\\Extentions\\AppExtention.cs",
+              "RelativeDocumentMoniker": "Help\\Extentions\\AppExtention.cs",
+              "ToolTip": "C:\\VSProjects\\Trainee\\Help\\Extentions\\AppExtention.cs",
+              "RelativeToolTip": "Help\\Extentions\\AppExtention.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAjwGEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T14:06:09.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\VSProjects\\Trainee\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\VSProjects\\Trainee\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T12:37:51.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientService.cs",
+              "DocumentMoniker": "C:\\VSProjects\\Trainee\\Services\\Implementations\\ClientService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\ClientService.cs",
+              "ToolTip": "C:\\VSProjects\\Trainee\\Services\\Implementations\\ClientService.cs",
+              "RelativeToolTip": "Services\\Implementations\\ClientService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAjwBQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T16:39:05.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "C:\\VSProjects\\Trainee\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientController.cs",
+              "ToolTip": "C:\\VSProjects\\Trainee\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "Controllers\\ClientController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwCUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T16:31:34.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientRepository.cs",
+              "DocumentMoniker": "C:\\VSProjects\\Trainee\\Dal\\Implementations\\ClientRepository.cs",
+              "RelativeDocumentMoniker": "Dal\\Implementations\\ClientRepository.cs",
+              "ToolTip": "C:\\VSProjects\\Trainee\\Dal\\Implementations\\ClientRepository.cs",
+              "RelativeToolTip": "Dal\\Implementations\\ClientRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAIA2wCIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T16:39:41.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClientsUpdate.sql",
+              "DocumentMoniker": "C:\\VSProjects\\Trainee\\Scripts\\ClientsUpdate.sql",
+              "RelativeDocumentMoniker": "Scripts\\ClientsUpdate.sql",
+              "ToolTip": "C:\\VSProjects\\Trainee\\Scripts\\ClientsUpdate.sql",
+              "RelativeToolTip": "Scripts\\ClientsUpdate.sql",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-14T23:53:19.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClientInserted.sql",
+              "DocumentMoniker": "C:\\VSProjects\\Trainee\\Scripts\\ClientInserted.sql",
+              "RelativeDocumentMoniker": "Scripts\\ClientInserted.sql",
+              "ToolTip": "C:\\VSProjects\\Trainee\\Scripts\\ClientInserted.sql",
+              "RelativeToolTip": "Scripts\\ClientInserted.sql",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-14T23:54:15.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskUpdated.sql",
+              "DocumentMoniker": "C:\\VSProjects\\Trainee\\Scripts\\TaskUpdated.sql",
+              "RelativeDocumentMoniker": "Scripts\\TaskUpdated.sql",
+              "ToolTip": "C:\\VSProjects\\Trainee\\Scripts\\TaskUpdated.sql",
+              "RelativeToolTip": "Scripts\\TaskUpdated.sql",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-14T23:54:15.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskInserted.sql",
+              "DocumentMoniker": "C:\\VSProjects\\Trainee\\Scripts\\TaskInserted.sql",
+              "RelativeDocumentMoniker": "Scripts\\TaskInserted.sql",
+              "ToolTip": "C:\\VSProjects\\Trainee\\Scripts\\TaskInserted.sql",
+              "RelativeToolTip": "Scripts\\TaskInserted.sql",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-14T23:54:15.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateTables.sql",
+              "DocumentMoniker": "C:\\VSProjects\\Trainee\\Scripts\\CreateTables.sql",
+              "RelativeDocumentMoniker": "Scripts\\CreateTables.sql",
+              "ToolTip": "C:\\VSProjects\\Trainee\\Scripts\\CreateTables.sql",
+              "RelativeToolTip": "Scripts\\CreateTables.sql",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-14T23:24:20.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SecretsPublish.env",
+              "DocumentMoniker": "C:\\VSProjects\\Trainee\\SecretsPublish.env",
+              "RelativeDocumentMoniker": "SecretsPublish.env",
+              "ToolTip": "C:\\VSProjects\\Trainee\\SecretsPublish.env",
+              "RelativeToolTip": "SecretsPublish.env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-14T21:16:52.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\VSProjects\\Trainee\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\VSProjects\\Trainee\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-14T21:05:31.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Secrets.env",
+              "DocumentMoniker": "C:\\VSProjects\\Trainee\\Secrets.env",
+              "RelativeDocumentMoniker": "Secrets.env",
+              "ToolTip": "C:\\VSProjects\\Trainee\\Secrets.env",
+              "RelativeToolTip": "Secrets.env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-13T18:32:14.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\VSProjects\\Trainee\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\VSProjects\\Trainee\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-10-14T21:22:43.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Trainee.http",
+              "DocumentMoniker": "C:\\VSProjects\\Trainee\\Trainee.http",
+              "RelativeDocumentMoniker": "Trainee.http",
+              "ToolTip": "C:\\VSProjects\\Trainee\\Trainee.http",
+              "RelativeToolTip": "Trainee.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-14T21:29:41.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ClientValidator.cs",
+              "DocumentMoniker": "C:\\VSProjects\\Trainee\\Validators\\ClientValidator.cs",
+              "RelativeDocumentMoniker": "Validators\\ClientValidator.cs",
+              "ToolTip": "C:\\VSProjects\\Trainee\\Validators\\ClientValidator.cs",
+              "RelativeToolTip": "Validators\\ClientValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T09:45:04.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "C:\\VSProjects\\Trainee\\Services\\Implementations\\TaskService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\TaskService.cs",
+              "ToolTip": "C:\\VSProjects\\Trainee\\Services\\Implementations\\TaskService.cs",
+              "RelativeToolTip": "Services\\Implementations\\TaskService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCIAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T22:17:44.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TaskRepository.cs",
+              "DocumentMoniker": "C:\\VSProjects\\Trainee\\Dal\\Implementations\\TaskRepository.cs",
+              "RelativeDocumentMoniker": "Dal\\Implementations\\TaskRepository.cs",
+              "ToolTip": "C:\\VSProjects\\Trainee\\Dal\\Implementations\\TaskRepository.cs",
+              "RelativeToolTip": "Dal\\Implementations\\TaskRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAK8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T19:14:54.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Trainee.csproj",
+              "DocumentMoniker": "C:\\VSProjects\\Trainee\\Trainee.csproj",
+              "RelativeDocumentMoniker": "Trainee.csproj",
+              "ToolTip": "C:\\VSProjects\\Trainee\\Trainee.csproj",
+              "RelativeToolTip": "Trainee.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-12T12:53:48.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\VSProjects\\Trainee\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\VSProjects\\Trainee\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-12T12:37:53.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\VSProjects\\Trainee\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TaskController.cs",
+              "ToolTip": "C:\\VSProjects\\Trainee\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "Controllers\\TaskController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAArwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T22:18:00.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CreateTask.cs",
+              "DocumentMoniker": "C:\\VSProjects\\Trainee\\Models\\Task\\CreateTask.cs",
+              "RelativeDocumentMoniker": "Models\\Task\\CreateTask.cs",
+              "ToolTip": "C:\\VSProjects\\Trainee\\Models\\Task\\CreateTask.cs",
+              "RelativeToolTip": "Models\\Task\\CreateTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T12:22:34.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TaskValidator.cs",
+              "DocumentMoniker": "C:\\VSProjects\\Trainee\\Validators\\TaskValidator.cs",
+              "RelativeDocumentMoniker": "Validators\\TaskValidator.cs",
+              "ToolTip": "C:\\VSProjects\\Trainee\\Validators\\TaskValidator.cs",
+              "RelativeToolTip": "Validators\\TaskValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T09:45:04.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DatabaseRepository.cs",
+              "DocumentMoniker": "C:\\VSProjects\\Trainee\\Dal\\DatabaseRepository.cs",
+              "RelativeDocumentMoniker": "Dal\\DatabaseRepository.cs",
+              "ToolTip": "C:\\VSProjects\\Trainee\\Dal\\DatabaseRepository.cs",
+              "RelativeToolTip": "Dal\\DatabaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T13:31:30.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IClientService.cs",
+              "DocumentMoniker": "C:\\VSProjects\\Trainee\\Services\\Interfaces\\IClientService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IClientService.cs",
+              "ToolTip": "C:\\VSProjects\\Trainee\\Services\\Interfaces\\IClientService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IClientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T16:36:18.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IClientRepository.cs",
+              "DocumentMoniker": "C:\\VSProjects\\Trainee\\Dal\\Interfaces\\IClientRepository.cs",
+              "RelativeDocumentMoniker": "Dal\\Interfaces\\IClientRepository.cs",
+              "ToolTip": "C:\\VSProjects\\Trainee\\Dal\\Interfaces\\IClientRepository.cs",
+              "RelativeToolTip": "Dal\\Interfaces\\IClientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T16:39:32.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GetTask.cs",
+              "DocumentMoniker": "C:\\VSProjects\\Trainee\\Models\\Task\\GetTask.cs",
+              "RelativeDocumentMoniker": "Models\\Task\\GetTask.cs",
+              "ToolTip": "C:\\VSProjects\\Trainee\\Models\\Task\\GetTask.cs",
+              "RelativeToolTip": "Models\\Task\\GetTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T12:22:24.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ClientWithTasks.cs",
+              "DocumentMoniker": "C:\\VSProjects\\Trainee\\Models\\Client\\ClientWithTasks.cs",
+              "RelativeDocumentMoniker": "Models\\Client\\ClientWithTasks.cs",
+              "ToolTip": "C:\\VSProjects\\Trainee\\Models\\Client\\ClientWithTasks.cs",
+              "RelativeToolTip": "Models\\Client\\ClientWithTasks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T14:49:54.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "GetClient.cs",
+              "DocumentMoniker": "C:\\VSProjects\\Trainee\\Models\\Client\\GetClient.cs",
+              "RelativeDocumentMoniker": "Models\\Client\\GetClient.cs",
+              "ToolTip": "C:\\VSProjects\\Trainee\\Models\\Client\\GetClient.cs",
+              "RelativeToolTip": "Models\\Client\\GetClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T16:37:02.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ITaskRepository.cs",
+              "DocumentMoniker": "C:\\VSProjects\\Trainee\\Dal\\Interfaces\\ITaskRepository.cs",
+              "RelativeDocumentMoniker": "Dal\\Interfaces\\ITaskRepository.cs",
+              "ToolTip": "C:\\VSProjects\\Trainee\\Dal\\Interfaces\\ITaskRepository.cs",
+              "RelativeToolTip": "Dal\\Interfaces\\ITaskRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T19:14:34.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ITaskService.cs",
+              "DocumentMoniker": "C:\\VSProjects\\Trainee\\Services\\Interfaces\\ITaskService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\ITaskService.cs",
+              "ToolTip": "C:\\VSProjects\\Trainee\\Services\\Interfaces\\ITaskService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\ITaskService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T22:17:32.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\VSProjects\\Trainee\\Domain\\Responses\\Response.cs",
+              "RelativeDocumentMoniker": "Domain\\Responses\\Response.cs",
+              "ToolTip": "C:\\VSProjects\\Trainee\\Domain\\Responses\\Response.cs",
+              "RelativeToolTip": "Domain\\Responses\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T13:07:56.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "StatusCode.cs",
+              "DocumentMoniker": "C:\\VSProjects\\Trainee\\Domain\\Enums\\StatusCode.cs",
+              "RelativeDocumentMoniker": "Domain\\Enums\\StatusCode.cs",
+              "ToolTip": "C:\\VSProjects\\Trainee\\Domain\\Enums\\StatusCode.cs",
+              "RelativeToolTip": "Domain\\Enums\\StatusCode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T13:08:22.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "TaskStatus.cs",
+              "DocumentMoniker": "C:\\VSProjects\\Trainee\\Domain\\Enums\\TaskStatus.cs",
+              "RelativeDocumentMoniker": "Domain\\Enums\\TaskStatus.cs",
+              "ToolTip": "C:\\VSProjects\\Trainee\\Domain\\Enums\\TaskStatus.cs",
+              "RelativeToolTip": "Domain\\Enums\\TaskStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T13:06:39.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UpdateTask.cs",
+              "DocumentMoniker": "C:\\VSProjects\\Trainee\\Models\\Task\\UpdateTask.cs",
+              "RelativeDocumentMoniker": "Models\\Task\\UpdateTask.cs",
+              "ToolTip": "C:\\VSProjects\\Trainee\\Models\\Task\\UpdateTask.cs",
+              "RelativeToolTip": "Models\\Task\\UpdateTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T12:22:24.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\VSProjects\\Trainee\\Domain\\Entities\\Task.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Task.cs",
+              "ToolTip": "C:\\VSProjects\\Trainee\\Domain\\Entities\\Task.cs",
+              "RelativeToolTip": "Domain\\Entities\\Task.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T13:05:45.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\VSProjects\\Trainee\\Domain\\Entities\\Client.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Client.cs",
+              "ToolTip": "C:\\VSProjects\\Trainee\\Domain\\Entities\\Client.cs",
+              "RelativeToolTip": "Domain\\Entities\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T13:04:39.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CreateClient.cs",
+              "DocumentMoniker": "C:\\VSProjects\\Trainee\\Models\\Client\\CreateClient.cs",
+              "RelativeDocumentMoniker": "Models\\Client\\CreateClient.cs",
+              "ToolTip": "C:\\VSProjects\\Trainee\\Models\\Client\\CreateClient.cs",
+              "RelativeToolTip": "Models\\Client\\CreateClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T21:30:36.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UpdateClient.cs",
+              "DocumentMoniker": "C:\\VSProjects\\Trainee\\Models\\Client\\UpdateClient.cs",
+              "RelativeDocumentMoniker": "Models\\Client\\UpdateClient.cs",
+              "ToolTip": "C:\\VSProjects\\Trainee\\Models\\Client\\UpdateClient.cs",
+              "RelativeToolTip": "Models\\Client\\UpdateClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T21:32:48.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "DataResponse.cs",
+              "DocumentMoniker": "C:\\VSProjects\\Trainee\\Domain\\Responses\\DataResponse.cs",
+              "RelativeDocumentMoniker": "Domain\\Responses\\DataResponse.cs",
+              "ToolTip": "C:\\VSProjects\\Trainee\\Domain\\Responses\\DataResponse.cs",
+              "RelativeToolTip": "Domain\\Responses\\DataResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T13:07:57.139Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
